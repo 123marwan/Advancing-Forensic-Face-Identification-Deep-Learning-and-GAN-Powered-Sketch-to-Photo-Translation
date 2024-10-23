@@ -1,5 +1,5 @@
 
-# marwan_s_application10
+# Enhancing Forensic Face Detection through Deep Learning and Generative Adversarial Networks
 ### Table of contents
 - [System requirements](#system-requirements)
 - [Figma design guidelines for better UI accuracy](#figma-design-guideline-for-better-accuracy)
